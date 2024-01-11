@@ -1,0 +1,11 @@
+.nightsky {
+  background-color: #0c1445;
+  color: #ffffff;
+  background-image: url('night_sky_image.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1, p {
+  text-align: center;
+  padding: 20px;
+}
